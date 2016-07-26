@@ -1,0 +1,16 @@
+{
+  "name": "blank",
+  "authors": [
+    "Dorio Cioran <dorio@anthood.com>"
+  ],
+  "description": "empty folder",
+  "main": "blank.js",
+  "keywords": [
+    "blank"
+  ],
+  "ignore": [
+    "bower.json"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
